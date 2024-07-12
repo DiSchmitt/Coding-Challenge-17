@@ -1,0 +1,1 @@
+//TaskGenerator Component: Displays the current task along with a motivational message.
